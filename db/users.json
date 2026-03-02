@@ -1,1 +1,10 @@
-[]
+[
+  {
+    "user_id": "aeea031c-c8f9-4bc2-bcc1-952201e07000",
+    "name": "Test",
+    "type": "DRIVER",
+    "unit_number": "0001",
+    "created_at": "2026-03-02T14:17:48.113Z",
+    "updated_at": "2026-03-02T14:17:48.113Z"
+  }
+]
