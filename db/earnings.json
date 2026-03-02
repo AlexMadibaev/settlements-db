@@ -1,1 +1,17 @@
-[]
+[
+  {
+    "load_id": "0001",
+    "pu": "LA",
+    "del": "SF",
+    "del_date": "2026-03-02",
+    "load_gross": 12555,
+    "fee_percent": 30,
+    "total_miles": 12000,
+    "row_id": "b28d5f3f-833f-4c98-bafd-23611dcfb5dc",
+    "settlement_id": "8b9e7f8c-c9ae-4bc7-90c9-b4cab42af09e",
+    "loaded_miles": 0,
+    "empty_miles": 0,
+    "total_amount": 3766.5,
+    "created_at": "2026-03-02T15:59:10.105Z"
+  }
+]
