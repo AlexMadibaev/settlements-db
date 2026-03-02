@@ -22,5 +22,13 @@
     "unit_number": "0003",
     "created_at": "2026-03-02T14:20:14.171Z",
     "updated_at": "2026-03-02T14:20:14.171Z"
+  },
+  {
+    "user_id": "130396b4-e2d8-4b0d-93b6-a15ecfe7376b",
+    "name": "test2",
+    "type": "DRIVER",
+    "unit_number": "00003",
+    "created_at": "2026-03-02T14:37:08.799Z",
+    "updated_at": "2026-03-02T14:37:08.799Z"
   }
 ]
