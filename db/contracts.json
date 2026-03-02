@@ -1,1 +1,11 @@
-[]
+[
+  {
+    "contract_id": "d8d27bd2-da44-4775-81dd-6226ef538e6c",
+    "vendor_user_id": "dc7c7cbc-1017-4061-a9e2-0ebbab8f7e82",
+    "driver_user_id": "c78c2417-8ce7-4d33-82b5-dbb4ca71de1b",
+    "percent": 30,
+    "status": "ACTIVE",
+    "created_at": "2026-03-02T15:59:31.659Z",
+    "updated_at": "2026-03-02T15:59:31.659Z"
+  }
+]
