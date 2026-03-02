@@ -28,22 +28,5 @@
     "empty_miles": 0,
     "total_amount": 3824.7,
     "created_at": "2026-03-02T16:00:04.250Z"
-  },
-  {
-    "load_id": "123",
-    "pu": "LA",
-    "del": "SF",
-    "del_date": "2026-03-02",
-    "loaded_miles": 12000,
-    "empty_miles": 2000,
-    "total_miles": 14000,
-    "load_gross": 12000,
-    "driver_user_id": "c78c2417-8ce7-4d33-82b5-dbb4ca71de1b",
-    "unit_number": "6666",
-    "row_id": "17a953c4-42df-4104-a663-9deed208566b",
-    "settlement_id": "4d2e619d-838c-4f73-a0a9-580b0ee599a3",
-    "fee_percent": null,
-    "total_amount": 12000,
-    "created_at": "2026-03-02T16:01:50.152Z"
   }
 ]
