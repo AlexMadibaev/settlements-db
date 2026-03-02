@@ -6,5 +6,13 @@
     "status": "ACTIVE",
     "created_at": "2026-03-02T15:57:35.770Z",
     "updated_at": "2026-03-02T15:57:35.770Z"
+  },
+  {
+    "unit_id": "67459718-7860-4443-8b7c-230a6d00afd7",
+    "unit_number": "6667",
+    "vendor_user_id": "dc7c7cbc-1017-4061-a9e2-0ebbab8f7e82",
+    "status": "ACTIVE",
+    "created_at": "2026-03-02T15:57:43.091Z",
+    "updated_at": "2026-03-02T15:57:43.091Z"
   }
 ]
