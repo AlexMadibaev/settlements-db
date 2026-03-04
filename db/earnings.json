@@ -118,5 +118,20 @@
     "fee_percent": null,
     "total_amount": 1150.17,
     "created_at": "2026-03-04T19:04:21.896Z"
+  },
+  {
+    "load_id": "11483TR46",
+    "pu": "1  MSP1  2601 4th Avenue East  SHAKOPEE, MN 55379",
+    "del": "FSD1  6700 N Marion Rd  Sioux Falls, SD 57107",
+    "del_date": "2026/02/23",
+    "load_gross": 686.87,
+    "total_miles": 214,
+    "row_id": "02872202-77ba-4e27-9f9c-9768fcb173b3",
+    "settlement_id": "4f9c3043-248f-4bb2-bf4e-9f4459099b67",
+    "loaded_miles": 0,
+    "empty_miles": 0,
+    "fee_percent": null,
+    "total_amount": 686.87,
+    "created_at": "2026-03-04T19:05:12.352Z"
   }
 ]
