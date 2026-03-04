@@ -253,5 +253,20 @@
     "fee_percent": null,
     "total_amount": 425,
     "created_at": "2026-03-04T20:47:13.817Z"
+  },
+  {
+    "load_id": "T-115KDNPMH",
+    "pu": "AMA1  8590 NE 24th Ave  Amarillo, TX 79108",
+    "del": "DAL3  1301 Chalk Hill Rd  Dallas, TX 75211",
+    "del_date": "2026/02/26",
+    "load_gross": 991.79,
+    "total_miles": 387,
+    "row_id": "071eff91-f835-4fb3-b416-74547fcc0db9",
+    "settlement_id": "1f41864e-d99c-4825-8ef6-2e6c592cd4fb",
+    "loaded_miles": 0,
+    "empty_miles": 0,
+    "fee_percent": null,
+    "total_amount": 991.79,
+    "created_at": "2026-03-04T20:48:09.905Z"
   }
 ]
