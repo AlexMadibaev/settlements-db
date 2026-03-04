@@ -58,5 +58,15 @@
     "settlement_id": "4f9c3043-248f-4bb2-bf4e-9f4459099b67",
     "total_amount": 2360.55,
     "created_at": "2026-03-04T19:12:58.774Z"
+  },
+  {
+    "type": "ELD Services",
+    "description": "Safe Lane",
+    "quantity": 1,
+    "rate": 50,
+    "row_id": "983b250f-140d-4b85-bac7-fca46223288d",
+    "settlement_id": "4f9c3043-248f-4bb2-bf4e-9f4459099b67",
+    "total_amount": 50,
+    "created_at": "2026-03-04T19:14:03.181Z"
   }
 ]
