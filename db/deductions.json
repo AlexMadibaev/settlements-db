@@ -98,5 +98,15 @@
     "settlement_id": "4f9c3043-248f-4bb2-bf4e-9f4459099b67",
     "total_amount": 35,
     "created_at": "2026-03-04T19:28:27.716Z"
+  },
+  {
+    "type": "Violation fines",
+    "description": "Per policy 200 per point",
+    "quantity": 1,
+    "rate": 200,
+    "row_id": "aed9638c-0be7-4d70-b9a8-94ae2913906d",
+    "settlement_id": "4f9c3043-248f-4bb2-bf4e-9f4459099b67",
+    "total_amount": 200,
+    "created_at": "2026-03-04T19:29:57.518Z"
   }
 ]
