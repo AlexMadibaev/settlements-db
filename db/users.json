@@ -1,13 +1,5 @@
 [
   {
-    "user_id": "c78c2417-8ce7-4d33-82b5-dbb4ca71de1b",
-    "name": "Test Driver",
-    "type": "DRIVER",
-    "unit_number": "0001",
-    "created_at": "2026-03-02T14:59:34.734Z",
-    "updated_at": "2026-03-02T14:59:34.734Z"
-  },
-  {
     "user_id": "e993843a-ab2c-4d38-9b46-bc5eed35bb76",
     "name": "Test Owner",
     "type": "OWNER_OPERATOR",
