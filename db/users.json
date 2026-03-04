@@ -22,5 +22,13 @@
     "unit_number": "#0070",
     "created_at": "2026-03-04T19:46:57.649Z",
     "updated_at": "2026-03-04T19:46:57.649Z"
+  },
+  {
+    "user_id": "e138c970-2ae6-4b14-b8a8-0190804162e2",
+    "name": "Daler Shafiev",
+    "type": "OWNER_OPERATOR",
+    "unit_number": "#015",
+    "created_at": "2026-03-04T20:12:55.830Z",
+    "updated_at": "2026-03-04T20:12:55.830Z"
   }
 ]
