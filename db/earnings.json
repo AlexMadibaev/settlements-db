@@ -208,5 +208,20 @@
     "fee_percent": null,
     "total_amount": 788.95,
     "created_at": "2026-03-04T19:09:35.214Z"
+  },
+  {
+    "load_id": "115LQSJ1Z",
+    "pu": "DPX6  14000 W Grant St  GOODYEAR, Arizona 85338",
+    "del": "IAH3  15525 Milner Rd  Houston, TX 77032",
+    "del_date": "2026/02/23",
+    "load_gross": 2791.46,
+    "total_miles": 1207,
+    "row_id": "ea8fb519-e638-4cdb-9e15-41f62a55be43",
+    "settlement_id": "40b3fe20-3e52-4285-9652-04ea5fa3b650",
+    "loaded_miles": 0,
+    "empty_miles": 0,
+    "fee_percent": null,
+    "total_amount": 2791.46,
+    "created_at": "2026-03-04T19:51:11.805Z"
   }
 ]
