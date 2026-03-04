@@ -103,5 +103,20 @@
     "fee_percent": null,
     "total_amount": 123.43,
     "created_at": "2026-03-04T19:03:11.496Z"
+  },
+  {
+    "load_id": "T-115LKNBDN",
+    "pu": "GRAIN VALLEY, MO 64029",
+    "del": "STP2  10655 COUNTY ROAD 81  MAPLE GROVE, Minnesota 55369",
+    "del_date": "2026/02/23",
+    "load_gross": 1150.17,
+    "total_miles": 505,
+    "row_id": "24554652-d85c-4ae2-9d40-e9932a642182",
+    "settlement_id": "4f9c3043-248f-4bb2-bf4e-9f4459099b67",
+    "loaded_miles": 0,
+    "empty_miles": 0,
+    "fee_percent": null,
+    "total_amount": 1150.17,
+    "created_at": "2026-03-04T19:04:21.896Z"
   }
 ]
