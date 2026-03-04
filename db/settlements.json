@@ -9,8 +9,8 @@
     "vendor_unit_numbers": [],
     "pay_period_start": "2026/02/5",
     "pay_period_end": "2026/02/14",
-    "status": "PENDING",
+    "status": "PAID",
     "created_at": "2026-03-04T18:02:18.051Z",
-    "updated_at": "2026-03-04T18:02:18.051Z"
+    "updated_at": "2026-03-04T18:54:02.765Z"
   }
 ]
