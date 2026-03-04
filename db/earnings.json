@@ -133,5 +133,20 @@
     "fee_percent": null,
     "total_amount": 686.87,
     "created_at": "2026-03-04T19:05:12.352Z"
+  },
+  {
+    "load_id": "11249PHWR",
+    "pu": "FSD1  6700 N Marion Rd  Sioux Falls, SD 57107",
+    "del": "ICT2  7130 N BROADWAY AVE  Park City, KS 67219",
+    "del_date": "2026/02/23",
+    "load_gross": 824.11,
+    "total_miles": 504,
+    "row_id": "579a8bc0-c73e-48e1-9d1e-77239ac2c7e2",
+    "settlement_id": "4f9c3043-248f-4bb2-bf4e-9f4459099b67",
+    "loaded_miles": 0,
+    "empty_miles": 0,
+    "fee_percent": null,
+    "total_amount": 824.11,
+    "created_at": "2026-03-04T19:05:47.619Z"
   }
 ]
