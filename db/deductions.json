@@ -158,5 +158,15 @@
     "settlement_id": "1f41864e-d99c-4825-8ef6-2e6c592cd4fb",
     "total_amount": 191.01,
     "created_at": "2026-03-04T20:52:25.545Z"
+  },
+  {
+    "type": "ELD Service",
+    "description": "1 out of 4",
+    "quantity": 1,
+    "rate": 50,
+    "row_id": "cc22adfa-9494-4dcf-912d-3a682c8b21e7",
+    "settlement_id": "1f41864e-d99c-4825-8ef6-2e6c592cd4fb",
+    "total_amount": 50,
+    "created_at": "2026-03-04T20:53:04.606Z"
   }
 ]
