@@ -193,5 +193,20 @@
     "fee_percent": null,
     "total_amount": 2956.2,
     "created_at": "2026-03-04T19:08:29.694Z"
+  },
+  {
+    "load_id": "1166M52KZ",
+    "pu": "SMF1  4900 W Elkhorn Blvd  Sacramento, CA 95835",
+    "del": "LGB7  1660 N LINDEN AVE  Rialto, CA 92376",
+    "del_date": "2026/02/28",
+    "load_gross": 788.95,
+    "total_miles": 439,
+    "row_id": "2d7594fc-7e68-435a-9179-01c4d4180197",
+    "settlement_id": "4f9c3043-248f-4bb2-bf4e-9f4459099b67",
+    "loaded_miles": 0,
+    "empty_miles": 0,
+    "fee_percent": null,
+    "total_amount": 788.95,
+    "created_at": "2026-03-04T19:09:35.214Z"
   }
 ]
