@@ -98,5 +98,15 @@
     "settlement_id": "4f9c3043-248f-4bb2-bf4e-9f4459099b67",
     "total_amount": 100,
     "created_at": "2026-03-04T19:24:29.734Z"
+  },
+  {
+    "type": "Deduction",
+    "description": "Violation Fee's",
+    "quantity": 1,
+    "rate": 200,
+    "row_id": "d23d0594-7921-4a2a-9390-b998e88e3aa3",
+    "settlement_id": "4f9c3043-248f-4bb2-bf4e-9f4459099b67",
+    "total_amount": 200,
+    "created_at": "2026-03-04T19:25:23.226Z"
   }
 ]
