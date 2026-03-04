@@ -43,5 +43,20 @@
     "fee_percent": null,
     "total_amount": 3500,
     "created_at": "2026-03-04T18:05:54.402Z"
+  },
+  {
+    "load_id": "62059-0",
+    "pu": "Dalton, GA",
+    "del": "Augusta, Me",
+    "del_date": "2026/02/14",
+    "load_gross": 2372.12,
+    "total_miles": 1193,
+    "row_id": "c179eb8b-c392-410d-bcff-e78dc93f29e4",
+    "settlement_id": "d95e58ba-3f89-48f3-8917-7a914ec91453",
+    "loaded_miles": 0,
+    "empty_miles": 0,
+    "fee_percent": null,
+    "total_amount": 2372.12,
+    "created_at": "2026-03-04T18:09:52.619Z"
   }
 ]
