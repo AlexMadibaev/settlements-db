@@ -253,5 +253,20 @@
     "fee_percent": null,
     "total_amount": 991.79,
     "created_at": "2026-03-04T20:48:09.905Z"
+  },
+  {
+    "load_id": "113JLLNZZ",
+    "pu": "SCO2  7800 S Fairplay St  Englewood, CO 80112",
+    "del": "AMA1  8590 NE 24th Ave  Amarillo, TX 79108",
+    "del_date": "2026/02/09",
+    "load_gross": 854.45,
+    "total_miles": 425,
+    "row_id": "99a32dc6-4d58-47ee-8328-31d659d3c747",
+    "settlement_id": "1f41864e-d99c-4825-8ef6-2e6c592cd4fb",
+    "loaded_miles": 0,
+    "empty_miles": 0,
+    "fee_percent": null,
+    "total_amount": 854.45,
+    "created_at": "2026-03-04T21:38:37.201Z"
   }
 ]
