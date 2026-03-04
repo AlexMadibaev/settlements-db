@@ -1,19 +1,5 @@
 [
   {
-    "settlement_id": "8b9e7f8c-c9ae-4bc7-90c9-b4cab42af09e",
-    "settlement_number": "1001",
-    "user_id": "c78c2417-8ce7-4d33-82b5-dbb4ca71de1b",
-    "type": "DRIVER",
-    "name": "Test Driver",
-    "unit_number": "0001",
-    "vendor_unit_numbers": [],
-    "pay_period_start": "2026-03-02",
-    "pay_period_end": "2026-03-02",
-    "status": "PENDING",
-    "created_at": "2026-03-02T15:58:27.767Z",
-    "updated_at": "2026-03-02T15:58:27.767Z"
-  },
-  {
     "settlement_id": "4d2e619d-838c-4f73-a0a9-580b0ee599a3",
     "settlement_number": "1002",
     "user_id": "dc7c7cbc-1017-4061-a9e2-0ebbab8f7e82",
