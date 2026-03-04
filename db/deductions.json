@@ -38,5 +38,15 @@
     "settlement_id": "d95e58ba-3f89-48f3-8917-7a914ec91453",
     "total_amount": 4282,
     "created_at": "2026-03-04T18:27:00.796Z"
+  },
+  {
+    "type": "Deduction",
+    "description": "Transfer Fee",
+    "quantity": 1,
+    "rate": 15,
+    "row_id": "41c61a66-71db-4bfa-9830-cf4c558cf99a",
+    "settlement_id": "d95e58ba-3f89-48f3-8917-7a914ec91453",
+    "total_amount": 15,
+    "created_at": "2026-03-04T18:33:14.910Z"
   }
 ]
