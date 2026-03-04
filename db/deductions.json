@@ -1,1 +1,12 @@
-[]
+[
+  {
+    "type": "Fuel",
+    "description": "",
+    "quantity": 8,
+    "rate": 1423.88,
+    "row_id": "676b7d06-8a2c-4c3b-a4e4-391340704d9f",
+    "settlement_id": "d95e58ba-3f89-48f3-8917-7a914ec91453",
+    "total_amount": 11391.04,
+    "created_at": "2026-03-04T18:11:07.824Z"
+  }
+]
