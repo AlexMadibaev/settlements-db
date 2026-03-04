@@ -163,5 +163,20 @@
     "fee_percent": null,
     "total_amount": 1106.3,
     "created_at": "2026-03-04T19:06:22.421Z"
+  },
+  {
+    "load_id": "T-111XKF9DF",
+    "pu": "OKC5  1414 S COUNCIL RD  OKLAHOMA CITY, OK 73128",
+    "del": "OKC1  9201 S Portland Ave  Oklahoma City, OK 73159",
+    "del_date": "2026/02/28",
+    "load_gross": 2767.11,
+    "total_miles": 1537,
+    "row_id": "f9f0e261-030f-4bb0-9dfd-a8f9475a102b",
+    "settlement_id": "4f9c3043-248f-4bb2-bf4e-9f4459099b67",
+    "loaded_miles": 0,
+    "empty_miles": 0,
+    "fee_percent": null,
+    "total_amount": 2767.11,
+    "created_at": "2026-03-04T19:07:15.490Z"
   }
 ]
