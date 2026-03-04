@@ -1,13 +1,5 @@
 [
   {
-    "user_id": "e993843a-ab2c-4d38-9b46-bc5eed35bb76",
-    "name": "Test Owner",
-    "type": "OWNER_OPERATOR",
-    "unit_number": "0002",
-    "created_at": "2026-03-02T14:59:56.945Z",
-    "updated_at": "2026-03-02T14:59:56.945Z"
-  },
-  {
     "user_id": "1985fe31-05fa-494a-aa28-7ccbe6c7e334",
     "name": "Gary Dewwit",
     "type": "OWNER_OPERATOR",
