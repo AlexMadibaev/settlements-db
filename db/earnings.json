@@ -268,5 +268,20 @@
     "fee_percent": null,
     "total_amount": 854.45,
     "created_at": "2026-03-04T21:38:37.201Z"
+  },
+  {
+    "load_id": "112Y66C2F",
+    "pu": "PSP3  64165 19th Ave  DESERT HOT SPRINGS, California 92240",
+    "del": "2  DEN3  14601 Grant St  Thornton, CO 80023",
+    "del_date": "2026/03/02",
+    "load_gross": 1958.88,
+    "total_miles": 1034,
+    "row_id": "8b991bdd-5e82-4e9b-b0d1-f08fdf45d7fa",
+    "settlement_id": "1b23981c-067f-403d-aad1-d1beaa7de154",
+    "loaded_miles": 0,
+    "empty_miles": 0,
+    "fee_percent": null,
+    "total_amount": 1958.88,
+    "created_at": "2026-03-12T22:08:05.315Z"
   }
 ]
