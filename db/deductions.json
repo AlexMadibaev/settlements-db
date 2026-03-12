@@ -238,5 +238,15 @@
     "settlement_id": "1b23981c-067f-403d-aad1-d1beaa7de154",
     "total_amount": 35,
     "created_at": "2026-03-12T22:16:46.621Z"
+  },
+  {
+    "type": "Fuel",
+    "description": "",
+    "quantity": 1,
+    "rate": 1232.53,
+    "row_id": "291b4cb7-8e07-4aba-9289-9d52d3349e05",
+    "settlement_id": "1b23981c-067f-403d-aad1-d1beaa7de154",
+    "total_amount": 1232.53,
+    "created_at": "2026-03-12T22:17:14.060Z"
   }
 ]
