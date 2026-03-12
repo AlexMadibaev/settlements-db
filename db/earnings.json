@@ -313,5 +313,20 @@
     "fee_percent": null,
     "total_amount": 1674.27,
     "created_at": "2026-03-12T22:12:55.548Z"
+  },
+  {
+    "load_id": "TOP UP",
+    "pu": "",
+    "del": "",
+    "del_date": "2026/03/01",
+    "load_gross": 1832.25,
+    "total_miles": 0,
+    "row_id": "6e2ba31a-0bfc-40d6-bf25-1ff13f00695b",
+    "settlement_id": "1b23981c-067f-403d-aad1-d1beaa7de154",
+    "loaded_miles": 0,
+    "empty_miles": 0,
+    "fee_percent": null,
+    "total_amount": 1832.25,
+    "created_at": "2026-03-12T22:13:59.449Z"
   }
 ]
