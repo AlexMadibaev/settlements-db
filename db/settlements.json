@@ -68,5 +68,19 @@
     "status": "PENDING",
     "created_at": "2026-03-05T15:04:31.355Z",
     "updated_at": "2026-03-05T15:04:31.355Z"
+  },
+  {
+    "settlement_id": "611eb9c5-3ad8-43d1-8709-d4cebb974857",
+    "settlement_number": "1010",
+    "user_id": "ac9003af-2be9-4c30-a07c-379493f55a77",
+    "type": "OWNER_OPERATOR",
+    "name": "Zafardzhon Makhmadyarov",
+    "unit_number": "3053",
+    "vendor_unit_numbers": [],
+    "pay_period_start": "2026/03/01",
+    "pay_period_end": "2026/03/07",
+    "status": "PENDING",
+    "created_at": "2026-03-12T22:01:29.311Z",
+    "updated_at": "2026-03-12T22:01:29.311Z"
   }
 ]
