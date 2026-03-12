@@ -298,5 +298,20 @@
     "fee_percent": null,
     "total_amount": 2383.79,
     "created_at": "2026-03-12T22:11:54.439Z"
+  },
+  {
+    "load_id": "T-112CRYPMM",
+    "pu": "GYR3  8181 W Roosevelt St  Phoenix, AZ 85043",
+    "del": "DEN4  4222 Integration Loop  Colorado Springs, CO 80916",
+    "del_date": "2026/03/07",
+    "load_gross": 1674.27,
+    "total_miles": 860,
+    "row_id": "9e2d7535-3597-45b1-917e-7e5848862627",
+    "settlement_id": "1b23981c-067f-403d-aad1-d1beaa7de154",
+    "loaded_miles": 0,
+    "empty_miles": 0,
+    "fee_percent": null,
+    "total_amount": 1674.27,
+    "created_at": "2026-03-12T22:12:55.548Z"
   }
 ]
