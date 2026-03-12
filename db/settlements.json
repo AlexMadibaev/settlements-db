@@ -56,20 +56,6 @@
     "updated_at": "2026-03-04T20:13:18.541Z"
   },
   {
-    "settlement_id": "339a48b6-a1d1-41d2-b006-530a8df188f6",
-    "settlement_number": "1009",
-    "user_id": "181057f1-f5e5-4a9c-a6cc-5e62f5531b7f",
-    "type": "VENDOR",
-    "name": "Test",
-    "unit_number": "0000000001",
-    "vendor_unit_numbers": [],
-    "pay_period_start": "2026-3-5",
-    "pay_period_end": "2026-3-5",
-    "status": "PENDING",
-    "created_at": "2026-03-05T15:04:31.355Z",
-    "updated_at": "2026-03-05T15:04:31.355Z"
-  },
-  {
     "settlement_id": "1b23981c-067f-403d-aad1-d1beaa7de154",
     "settlement_number": "1011",
     "user_id": "ac9003af-2be9-4c30-a07c-379493f55a77",
