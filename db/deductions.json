@@ -208,5 +208,15 @@
     "settlement_id": "1b23981c-067f-403d-aad1-d1beaa7de154",
     "total_amount": 941.9,
     "created_at": "2026-03-12T22:15:00.052Z"
+  },
+  {
+    "type": "Liability Insurance",
+    "description": "",
+    "quantity": 1,
+    "rate": 450,
+    "row_id": "76ad6b79-ba82-4354-81aa-cf6bdb1dfa1c",
+    "settlement_id": "1b23981c-067f-403d-aad1-d1beaa7de154",
+    "total_amount": 450,
+    "created_at": "2026-03-12T22:15:56.495Z"
   }
 ]
