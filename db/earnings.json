@@ -433,5 +433,22 @@
     "empty_miles": 0,
     "total_amount": 386.32110000000006,
     "created_at": "2026-03-21T23:38:28.997Z"
+  },
+  {
+    "load_id": "T-114J3PTVG",
+    "pu": "HMS9 MN",
+    "del": "MCI7 KS",
+    "del_date": "2026/03/10",
+    "load_gross": 1170.67,
+    "loaded_miles": 457,
+    "empty_miles": 0,
+    "total_miles": 457,
+    "driver_user_id": "14041314-41dc-41cb-94b7-21c57c619f7b",
+    "unit_number": "1",
+    "row_id": "8d503abb-db22-4386-9c92-9c5aec45c918",
+    "settlement_id": "b34a7221-cd10-4e1a-a6f4-1b50e1c0438f",
+    "fee_percent": null,
+    "total_amount": 1170.67,
+    "created_at": "2026-03-21T23:52:44.440Z"
   }
 ]
