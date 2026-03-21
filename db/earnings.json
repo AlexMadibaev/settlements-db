@@ -328,5 +328,20 @@
     "fee_percent": null,
     "total_amount": 1832.25,
     "created_at": "2026-03-12T22:13:59.449Z"
+  },
+  {
+    "load_id": "111BK4SFT",
+    "pu": "Joilet, IL",
+    "del": "MEM1",
+    "del_date": "2026/03/08",
+    "load_gross": 856.69,
+    "total_miles": 540,
+    "row_id": "872f2766-c2bf-469d-966f-72ab5a51f411",
+    "settlement_id": "32a47cba-a3b4-457c-8ce1-3227d5e6e21f",
+    "loaded_miles": 0,
+    "empty_miles": 0,
+    "fee_percent": null,
+    "total_amount": 856.69,
+    "created_at": "2026-03-21T22:54:57.509Z"
   }
 ]
