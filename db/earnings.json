@@ -343,5 +343,20 @@
     "fee_percent": null,
     "total_amount": 856.69,
     "created_at": "2026-03-21T22:54:57.509Z"
+  },
+  {
+    "load_id": "113VQP1NJ",
+    "pu": "MEM5",
+    "del": "HSV1 AL",
+    "del_date": "2026/03/09",
+    "load_gross": 399.4,
+    "total_miles": 187,
+    "row_id": "a0cf7199-e1f4-41f5-9276-fb406a347292",
+    "settlement_id": "32a47cba-a3b4-457c-8ce1-3227d5e6e21f",
+    "loaded_miles": 0,
+    "empty_miles": 0,
+    "fee_percent": null,
+    "total_amount": 399.4,
+    "created_at": "2026-03-21T22:56:05.459Z"
   }
 ]
