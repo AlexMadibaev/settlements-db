@@ -258,5 +258,15 @@
     "settlement_id": "1b23981c-067f-403d-aad1-d1beaa7de154",
     "total_amount": 200,
     "created_at": "2026-03-12T22:18:19.065Z"
+  },
+  {
+    "type": "Service Fee",
+    "description": "12% from gross",
+    "quantity": 1,
+    "rate": 292.97,
+    "row_id": "950d1913-79e9-44fe-9d68-f606975a6913",
+    "settlement_id": "32a47cba-a3b4-457c-8ce1-3227d5e6e21f",
+    "total_amount": 292.97,
+    "created_at": "2026-03-21T23:02:36.062Z"
   }
 ]
