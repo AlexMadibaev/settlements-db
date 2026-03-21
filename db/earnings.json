@@ -388,5 +388,20 @@
     "fee_percent": null,
     "total_amount": 511,
     "created_at": "2026-03-21T23:01:21.461Z"
+  },
+  {
+    "load_id": "115KZW9PR",
+    "pu": "WKY",
+    "del": "MEM4",
+    "del_date": "2026/03/10",
+    "load_gross": 511,
+    "total_miles": 171,
+    "row_id": "12793a36-1621-4113-b894-246cd0f9e0e1",
+    "settlement_id": "32a47cba-a3b4-457c-8ce1-3227d5e6e21f",
+    "loaded_miles": 0,
+    "empty_miles": 0,
+    "fee_percent": null,
+    "total_amount": 511,
+    "created_at": "2026-03-21T23:01:23.509Z"
   }
 ]
