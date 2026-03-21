@@ -388,5 +388,20 @@
     "fee_percent": null,
     "total_amount": 511,
     "created_at": "2026-03-21T23:01:21.461Z"
+  },
+  {
+    "load_id": "T-1116PKGGB",
+    "pu": "Omaha, NE",
+    "del": "Davenport, IA",
+    "del_date": "2026/03/09",
+    "load_gross": 1425.92,
+    "total_miles": 597,
+    "row_id": "41539286-31df-4879-9dc3-1b368caaed9b",
+    "settlement_id": "7c6fe198-b1eb-491e-bc63-9b6edaddab8f",
+    "loaded_miles": 0,
+    "empty_miles": 0,
+    "fee_percent": null,
+    "total_amount": 1425.92,
+    "created_at": "2026-03-21T23:30:33.859Z"
   }
 ]
