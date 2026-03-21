@@ -46,5 +46,13 @@
     "unit_number": "1001",
     "created_at": "2026-03-21T23:36:19.928Z",
     "updated_at": "2026-03-21T23:36:19.928Z"
+  },
+  {
+    "user_id": "2c595144-e378-4575-8b43-6371d07d2de6",
+    "name": "Foziljon Nuralizoda",
+    "type": "VENDOR",
+    "unit_number": "1",
+    "created_at": "2026-03-21T23:36:46.802Z",
+    "updated_at": "2026-03-21T23:36:46.802Z"
   }
 ]
