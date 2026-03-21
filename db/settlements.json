@@ -79,9 +79,9 @@
     "vendor_unit_numbers": [],
     "pay_period_start": "2026/03/08",
     "pay_period_end": "2026/03/14",
-    "status": "PENDING",
+    "status": "PAID",
     "created_at": "2026-03-21T23:37:00.649Z",
-    "updated_at": "2026-03-21T23:37:00.649Z"
+    "updated_at": "2026-03-21T23:45:32.572Z"
   },
   {
     "settlement_id": "b34a7221-cd10-4e1a-a6f4-1b50e1c0438f",
