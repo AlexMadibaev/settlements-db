@@ -403,5 +403,20 @@
     "fee_percent": null,
     "total_amount": 1425.92,
     "created_at": "2026-03-21T23:30:33.859Z"
+  },
+  {
+    "load_id": "112H8C294",
+    "pu": "IGQ2 IL",
+    "del": "MQJ1 IN",
+    "del_date": "2026/03/10",
+    "load_gross": 601.14,
+    "total_miles": 183,
+    "row_id": "6191fd2c-e5f2-49e9-a5fa-4f09f6b73f1f",
+    "settlement_id": "7c6fe198-b1eb-491e-bc63-9b6edaddab8f",
+    "loaded_miles": 0,
+    "empty_miles": 0,
+    "fee_percent": null,
+    "total_amount": 601.14,
+    "created_at": "2026-03-21T23:32:04.674Z"
   }
 ]
