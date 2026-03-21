@@ -418,5 +418,20 @@
     "fee_percent": null,
     "total_amount": 601.14,
     "created_at": "2026-03-21T23:32:04.674Z"
+  },
+  {
+    "load_id": "T-114J3PTVG",
+    "pu": "HMS9 MN",
+    "del": "MCI7 KS",
+    "del_date": "2026/03/10",
+    "load_gross": 1170.67,
+    "fee_percent": 33,
+    "total_miles": 457,
+    "row_id": "7676306e-ac21-4755-a40b-2eec0581b75b",
+    "settlement_id": "8f7b7958-d7ac-4539-965f-0aa3dfd36d52",
+    "loaded_miles": 0,
+    "empty_miles": 0,
+    "total_amount": 386.32110000000006,
+    "created_at": "2026-03-21T23:38:28.997Z"
   }
 ]
