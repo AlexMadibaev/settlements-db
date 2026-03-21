@@ -42,20 +42,6 @@
     "updated_at": "2026-03-05T15:34:41.923Z"
   },
   {
-    "settlement_id": "1f41864e-d99c-4825-8ef6-2e6c592cd4fb",
-    "settlement_number": "1008",
-    "user_id": "e138c970-2ae6-4b14-b8a8-0190804162e2",
-    "type": "OWNER_OPERATOR",
-    "name": "Daler Shafiev",
-    "unit_number": "#015",
-    "vendor_unit_numbers": [],
-    "pay_period_start": "2026/02/22",
-    "pay_period_end": "2026/02/28",
-    "status": "PENDING",
-    "created_at": "2026-03-04T20:13:18.541Z",
-    "updated_at": "2026-03-04T20:13:18.541Z"
-  },
-  {
     "settlement_id": "32a47cba-a3b4-457c-8ce1-3227d5e6e21f",
     "settlement_number": "1012",
     "user_id": "e138c970-2ae6-4b14-b8a8-0190804162e2",
